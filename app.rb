@@ -18,5 +18,4 @@ class App < Sinatra::Base
   end
     # Write your code here!
 
-  end
 end
